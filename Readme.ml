@@ -1,1 +1,0 @@
-![screenshot.png](https://github.com/peter-tharwat/file-upload-viewer/blob/master/screenshot.png)
