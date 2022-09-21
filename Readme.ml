@@ -1,5 +1,3 @@
-### Code
-
 ```jsx
 $('input[type="file"]').on('change',function(e){ 
     $('#upload_'+$(this).attr('rand_key')).remove();
